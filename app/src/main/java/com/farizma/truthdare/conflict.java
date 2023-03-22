@@ -1,7 +1,7 @@
 package com.farizma.truthdare;
 
 public class conflict {
-    int roll;
+    double roll;
     String id,name;
 
     public conflict(int roll, String id, String name) {
